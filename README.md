@@ -8,9 +8,6 @@ Before that, make sure you grab your Server API keys to search the web.
 **Get API Keys**:
    - [Serper](https://serper.dev/api-key)
 
-### Watch Demo on YouTube
-[![Watch Demo on YouTube](https://github.com/patchy631/ai-engineering-hub/blob/main/agentic_rag/thumbnail/thumbnail.png)](https://youtu.be/O4yBW_GTRk0)
-
 
 ## Installation and setup
 
