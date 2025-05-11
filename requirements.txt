@@ -1,0 +1,12 @@
+crewai[tools]
+chonkie[semantic]
+markitdown
+chromadb
+fastembed
+streamlit
+pydantic
+python-dotenv
+langchain
+langchain-openai
+pymupdf
+langchain-community
